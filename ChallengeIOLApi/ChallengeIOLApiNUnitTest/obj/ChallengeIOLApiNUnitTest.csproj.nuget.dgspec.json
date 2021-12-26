@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApiNUnitTest\\ChallengeIOLApiNUnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApiNUnitTest\\ChallengeIOLApiNUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApiNUnitTest\\ChallengeIOLApiNUnitTest.csproj",
+        "projectName": "ChallengeIOLApiNUnitTest",
+        "projectPath": "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApiNUnitTest\\ChallengeIOLApiNUnitTest.csproj",
+        "packagesPath": "C:\\Users\\Ova\\.nuget\\packages\\",
+        "outputPath": "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApiNUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApi\\ChallengeIOLApi.csproj": {
+                "projectPath": "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApi\\ChallengeIOLApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApi\\ChallengeIOLApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApi\\ChallengeIOLApi.csproj",
+        "projectName": "ChallengeIOLApi",
+        "projectPath": "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApi\\ChallengeIOLApi.csproj",
+        "packagesPath": "C:\\Users\\Ova\\.nuget\\packages\\",
+        "outputPath": "C:\\ULTIMA VERSION IOL\\ChallengeIOnline\\ChallengeIOLApi\\ChallengeIOLApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Pluralize.NET.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
