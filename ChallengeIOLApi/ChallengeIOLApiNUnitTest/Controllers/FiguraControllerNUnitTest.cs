@@ -56,5 +56,18 @@ namespace ChallengeIOLApi.Controllers
         }
 
 
+        [Test]
+        public void Figura_InputIdioma_ValorIncorrecto()
+        {
+            //1. Arrange
+            //Inicializar las variables o componentes que se ejecutaran en el test
+            FiguraController controller = new FiguraController(_reportRepository);
+            //2. Act
+            var result = controller.Get("esxesdf");
+            StatusCodeResult statusCodeResult = result.Result as StatusCodeResult;
+            //Assert            
+            Assert.AreEqual(400, statusCodeResult.StatusCode);
+        }
+
     }
 }

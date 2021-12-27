@@ -25,7 +25,7 @@ namespace ChallengeIOLApi.Repository
         /// Metodo AddFormas: Carga una lista generica con formas.
         /// Los datos estan hardcodeados para probar
         /// </summary>
-        /// <param name="traducciones">clase para cambiar el idioma</param>
+        /// <param name="traducciones">clase con el metodo para cambiar el idioma</param>
         /// <returns>Retorna una lista o colección de formas en un idioma seleccionado</returns>
         public List<IForma> AddFormas(Traduccion traducciones)
         {
@@ -58,8 +58,8 @@ namespace ChallengeIOLApi.Repository
         /// Convierte en plural (Pluralizer) las formas que tienen más de 1 cantidad.
         /// </summary>
         /// <param name="formas">Lista o coleccion de formas</param>
-        /// <param name="traducciones">clase para cambiar el idioma</param>
-        /// <returns>Retorna un reporte del calculo de areas y perimetros de diferentes Formas en un idioma selecciondo</returns>
+        /// <param name="traducciones">clase con el metodo para cambiar el idioma</param>
+        /// <returns>Retorna un reporte del calculo de areas y perimetros de diferentes Formas en un idioma seleccionado</returns>
         public Reporte Imprimir(List<IForma> formas, Traduccion traducciones)
         {     
             Reporte reporte = new Reporte()
@@ -77,7 +77,7 @@ namespace ChallengeIOLApi.Repository
                           Area = cl.Sum(c => c.GetArea()),
                           Perimetro = cl.Sum(c => c.GetPerimetro())
                       }).ToList()
-            };           
+            };          
 
             return  reporte;
         }

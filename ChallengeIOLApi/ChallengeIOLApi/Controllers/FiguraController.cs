@@ -45,7 +45,7 @@ namespace ChallengeIOLApi.Controllers
             }
             else
             {
-                return BadRequest("Solo puede ingresar uno de estos 3 idiomas: en, es, fr.");
+                return StatusCode(400);
             }
             
         }
