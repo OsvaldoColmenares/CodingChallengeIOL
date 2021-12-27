@@ -38,3 +38,42 @@ C:\Challenges\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\
 C:\Challenges\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.Resource.Traduccion.fr.resources
 C:\Challenges\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\fr\ChallengeIOLApi.resources.dll
 C:\Challenges\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.csproj.AssemblyReference.cache
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\appsettings.Development.json
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\appsettings.json
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\ChallengeIOLApi.exe
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\ChallengeIOLApi.deps.json
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\ChallengeIOLApi.runtimeconfig.json
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\ChallengeIOLApi.runtimeconfig.dev.json
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\ChallengeIOLApi.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\ref\ChallengeIOLApi.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\ChallengeIOLApi.pdb
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\en\ChallengeIOLApi.resources.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\es\ChallengeIOLApi.resources.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\fr\ChallengeIOLApi.resources.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\Pluralize.NET.Core.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.Resource.Traduccion.en.resources
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.Resource.Traduccion.es.resources
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.Resource.Traduccion.fr.resources
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.csproj.GenerateResource.cache
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.AssemblyInfoInputs.cache
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.AssemblyInfo.cs
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.csproj.CoreCompileInputs.cache
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\en\ChallengeIOLApi.resources.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\es\ChallengeIOLApi.resources.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\fr\ChallengeIOLApi.resources.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\staticwebassets\ChallengeIOLApi.StaticWebAssets.Manifest.cache
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\staticwebassets\ChallengeIOLApi.StaticWebAssets.xml
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\scopedcss\bundle\ChallengeIOLApi.styles.css
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.RazorTargetAssemblyInfo.cache
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ref\ChallengeIOLApi.dll
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.pdb
+C:\ULTIMA VERSION IOL\ChallengeIOnline\ChallengeIOLApi\ChallengeIOLApi\obj\Debug\net5.0\ChallengeIOLApi.genruntimeconfig.cache

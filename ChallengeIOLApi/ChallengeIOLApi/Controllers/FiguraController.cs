@@ -33,13 +33,21 @@ namespace ChallengeIOLApi.Controllers
         [HttpGet ("{idioma}")]
         public ActionResult<Reporte> Get(string idioma = "es")
         {
-            var traducciones = new Traduccion(CultureInfo.GetCultureInfo(idioma));
-            var lista = _reportRepository.AddFormas(traducciones);
-            if (lista == null)
-            {
-                return Content(traducciones.Listavaciadeformas);
+            if (idioma == "es" || idioma == "en" || idioma == "fr")
+            {               
+                var traducciones = new Traduccion(CultureInfo.GetCultureInfo(idioma));
+                var lista = _reportRepository.AddFormas(traducciones);
+                if (lista == null)
+                {
+                    return Content(traducciones.Listavaciadeformas);
+                }
+                return _reportRepository.Imprimir(lista, traducciones);
             }
-            return _reportRepository.Imprimir(lista,traducciones);
+            else
+            {
+                return BadRequest("Solo puede ingresar uno de estos 3 idiomas: en, es, fr.");
+            }
+            
         }
 
     }
